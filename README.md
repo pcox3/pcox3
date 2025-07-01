@@ -24,9 +24,9 @@ fund  transfers across different African countries. I was also responsible for i
 integration on the Android and POS apps. 
 
 <p align="start">
-  <img src="https://github.com/pcox3/portfolio/blob/main/baxi1.png?raw=true" alt="Image 1" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/baxi2.png?raw=true" alt="Image 2" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/baxi3.png?raw=true" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/baxi1.png?raw=true" alt="Image 1" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/baxi2.png?raw=true" alt="Image 2" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/baxi3.png?raw=true" alt="Image 3" width="200"/>
 </p>
 
 <br><br>
@@ -38,10 +38,10 @@ multiple marketplaces. I worked with a team of 3, Managed by [Chris Pick](https:
 where I built the V1 of the FlipSeats Android app using Jetpack Compose.
 
 <p align="start">
-  <img src="https://github.com/pcox3/portfolio/blob/main/flip1.png?raw=true" alt="Image 1" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/flip2.png?raw=true" alt="Image 2" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/flip3.png?raw=true" alt="Image 3" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/flip4.png?raw=true" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/flip1.png?raw=true" alt="Image 1" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/flip2.png?raw=true" alt="Image 2" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/flip3.png?raw=true" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/flip4.png?raw=true" alt="Image 3" width="200"/>
 </p>
 
 <br><br>
@@ -52,9 +52,9 @@ customers which caused a spike in the wallet funding rate by 10%. Implemented Kw
 Increased app rating by from 3.6 to 4.6 stars by analyzing app reviews and implementing in-app rating.
 
 <p align="start">
-  <img src="https://github.com/pcox3/portfolio/blob/main/kwik1.png?raw=true" alt="Image 1" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/kwik2.png?raw=true" alt="Image 2" width="200"/>
-  <img src="https://github.com/pcox3/portfolio/blob/main/kwik3.png?raw=true" alt="Image 3" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/kwik1.png?raw=true" alt="Image 1" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/kwik2.png?raw=true" alt="Image 2" width="200"/>
+  <img src="https://github.com/pcox3/blob/main/kwik3.png?raw=true" alt="Image 3" width="200"/>
 </p>
 
 <br><br>
