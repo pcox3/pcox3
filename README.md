@@ -1,13 +1,11 @@
 **Hi, I'm Chidi Pascal 👋**
 
-A versatile mobile engineer with over 9 years of industry experience. Proficient with various mobile 
-stacks ranging from Java, Kotlin, flutter, and Jetpack Compose. I have great expertise in bringing the simplicity of well-architected
-designs into developing scalable, complex applications with a wide range of knowledge in Banking, 
-E-logistics and Entertainment. Having experience in mobile development with a deep understanding 
-of Object-oriented programming, I’m proficient at developing apps based on customer specifications recommending 
-application changes to make more efficient programs, and upgrading existing apps to make them more useful. 
-I have a good knowledge of mobile SDKs and design guidelines owing to years of experience with a dedicated 
-focus on structured architectural and design patterns following coding standards. We've experience with Database design
-and I've led teams to build and ship great applications. 
+Experience software engineer with background on mobile development. Spent the last 4 years in the payment, logistics and ticketing industry. 
+My core strenth lies in my understanding of engineering principles, leadership and collaboration. This has helped me to work with cross functional teams
+and deliver results that impact business goals. At a former role, i helped a logistics company grow their app trust by moving the app rating from 3.6 star rating 
+to 4.6. Over the past 8 months, i've been busy mentoring developers and helping them gain the understanding they need to build enterprise applications. 
+
+Feel free to reachout for speaking or mentorship engagement.
+chidipascal@hotmail.com
 
 <br>
